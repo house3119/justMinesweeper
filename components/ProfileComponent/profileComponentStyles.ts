@@ -1,7 +1,7 @@
 import { StyleSheet } from "react-native";
 
 
-const userComponentStyles = StyleSheet.create({
+const profileComponentStyles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: '#fff',
@@ -10,4 +10,4 @@ const userComponentStyles = StyleSheet.create({
   }
 })
 
-export default userComponentStyles;
+export default profileComponentStyles;
